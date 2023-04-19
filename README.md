@@ -17,7 +17,8 @@
  
 ## Project Description
 
-**Refining Data:**
+**Aggregate Function:**
+
 ![1](https://user-images.githubusercontent.com/128286364/233052293-0fe40be9-af9e-4c12-89c4-7f8fccd5110d.png)
 
 **1. Count Function**
