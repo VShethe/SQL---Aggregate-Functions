@@ -10,6 +10,10 @@
 
 **1. SQL: Aggregate_Functions**
  - Count_Function.sql
+ - GROUP_BY.sql
+ - MIN_MAX.sql
+ - SUM.sql
+ - AVG.sql
  
 ## Project Description
 
